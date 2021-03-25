@@ -10,3 +10,8 @@
 [Description](https://github.com/rolling-scopes-school/andreymeshkov-JSFE2021Q1/pull/2) 
 
 [Deploy](https://rolling-scopes-school.github.io/andreymeshkov-JSFE2021Q1/wildlife/)
+
+### Virtual-piano
+[Description](https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/virtual-piano) 
+
+[Deploy](https://rolling-scopes-school.github.io/andreymeshkov-JSFE2021Q1/virtual-piano/)
