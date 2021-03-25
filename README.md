@@ -2,12 +2,12 @@
 # Tasks: 
 
 ### HTML&CSS
-[Description](https://github.com/AndreyMeshkov/rsschool-cv/pull/3) 
+[Description](https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/html-css) 
 
 [Deploy](https://andreymeshkov.github.io/rsschool-cv/)
 
 ### Wildlife
-[Description](https://github.com/rolling-scopes-school/andreymeshkov-JSFE2021Q1/pull/2) 
+[Description](https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/wildlife) 
 
 [Deploy](https://rolling-scopes-school.github.io/andreymeshkov-JSFE2021Q1/wildlife/)
 
