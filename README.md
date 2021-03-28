@@ -15,3 +15,9 @@
 [Description](https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/virtual-piano) 
 
 [Deploy](https://rolling-scopes-school.github.io/andreymeshkov-JSFE2021Q1/virtual-piano/)
+
+### Clean-code-s1e1
+
+[Description](https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/clean-code/clean-code-s1e1) 
+
+[My solution this task](https://github.com/AndreyMeshkov/clean-code-s1e1/commits/clean-code-s1e1)
