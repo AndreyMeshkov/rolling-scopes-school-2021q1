@@ -27,3 +27,10 @@
 [Description](https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/photo-filter) 
 
 [Deploy](https://rolling-scopes-school.github.io/andreymeshkov-JSFE2021Q1/photo-filter/)
+
+### Online-zoo
+
+[Description](https://github.com/rolling-scopes-school/stage0/blob/master/stage1/tasks/online-zoo/variant-6.md) 
+
+[Deploy (not the final version)](https://rolling-scopes-school.github.io/andreymeshkov-JSFE2021Q1/online-zoo/pages/main/main.html)
+
